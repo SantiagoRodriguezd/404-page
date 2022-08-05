@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://mi 404 page-error">
       Solution
     </a>
     <span> | </span>
